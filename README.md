@@ -1,2 +1,2 @@
 # Functional-Core
-This repository contains a functional core implementation in Python
+This repository contains a functional core implementation as a data pipeline in Python
