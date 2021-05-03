@@ -1,3 +1,5 @@
+# Программа без присаиваний
+
 def get_int(msg=''):
     return int(input(msg))
 
